@@ -1,0 +1,21 @@
+{
+  "name": "vachat-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "^6.0.6",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10.2.0",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "Irrevaldy <irrevaldy@gmail.com>",
+  "license": "ISC"
+}
