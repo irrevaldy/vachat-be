@@ -2,6 +2,9 @@
   "name": "vachat-be",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "16.9.1"
+  },
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js"
